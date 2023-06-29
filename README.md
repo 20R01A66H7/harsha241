@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @harsha241
+- 👋 Hi, I’m Harshith
 - 👀 I’m interested in exploring the technology 
 - 🌱 I’m currently learning to coding
 - 💞️ I’m looking to collaborate on 
